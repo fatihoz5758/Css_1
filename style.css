@@ -1,7 +1,25 @@
 h3 {
     color: blueviolet;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 h4 {
-    color: aqua; background-color: antiquewhite;
+    color: aqua;
+    background-color: antiquewhite;
+}
+
+table {
+    border: 1px;
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    size: 15px;
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+    
+}
+td {
+    width: 75px;
+    height: 25px;
+    
 }
